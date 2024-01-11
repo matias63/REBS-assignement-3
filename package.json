@@ -1,0 +1,18 @@
+{
+  "name": "jolie",
+  "version": "0.0.0",
+  "description": "",
+  "repo": "",
+  "keywords": [],
+  "author": "enter",
+  "license": "ISC",
+  "scripts": {
+    "start": "jolie undefined",
+    "test": "jot jot.json",
+    "watch": "nodemon jolie main.ol"
+  },
+  "devDependencies": {
+    "@jolie/jot": "*",
+    "nodemon": "*"
+  }
+}
