@@ -1,5 +1,5 @@
 include "console.iol"
-from BuyerServiceInterfaceModule.ol import BuyerShipperInterface
+from BuyerServiceInterfaceModule import BuyerShipperInterface
 
 main {
     while (true) {
@@ -9,6 +9,3 @@ main {
         } 
     }
 }
-
-
-

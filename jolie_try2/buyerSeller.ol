@@ -1,5 +1,5 @@
 // from SellerShipperServiceInterfaceModule import SellerInterface
-// from BuyerServiceInterfaceModule import BuyerShipperInterface, BuyerSellerInterface
+from BuyerServiceInterfaceModule import BuyerShipperInterface, BuyerSellerInterface, SellerInterface
 
 include "console.iol"
 service BuyerService {
@@ -36,6 +36,7 @@ service BuyerService {
             }
         }
 }
+
 // using the interface module BuyerServiceInterfaceModule
 interface BuyerShipperInterface {
     OneWay:
