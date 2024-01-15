@@ -1,5 +1,5 @@
 include "console.iol"
-from BuyerServiceInterfaceModule import BuyerShipperInterface, SellerShipperInterface
+from .BuyerServiceInterfaceModule import BuyerShipperInterface, SellerShipperInterface
 
 
 include "console.iol"

@@ -1,0 +1,15 @@
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\bin\Debug\net7.0\CSharpLøsning.exe
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\bin\Debug\net7.0\CSharpLøsning.deps.json
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\bin\Debug\net7.0\CSharpLøsning.runtimeconfig.json
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\bin\Debug\net7.0\CSharpLøsning.dll
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\bin\Debug\net7.0\CSharpLøsning.pdb
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.csproj.AssemblyReference.cache
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.AssemblyInfoInputs.cache
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.AssemblyInfo.cs
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.csproj.CoreCompileInputs.cache
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.dll
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\refint\CSharpLøsning.dll
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.pdb
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\CSharpLøsning.genruntimeconfig.cache
+C:\Users\Mads-\OneDrive - University of Copenhagen\Uni\2023\REB\REBS-assignement-3\CSharpLøsning\obj\Debug\net7.0\ref\CSharpLøsning.dll

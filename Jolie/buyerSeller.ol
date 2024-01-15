@@ -1,5 +1,5 @@
 // from SellerShipperServiceInterfaceModule import SellerInterface
-from BuyerServiceInterfaceModule import BuyerShipperInterface, BuyerSellerInterface, SellerInterface
+from .BuyerServiceInterfaceModule import BuyerShipperInterface, BuyerSellerInterface, SellerInterface
 
 include "console.iol"
 service BuyerService {
@@ -35,25 +35,4 @@ service BuyerService {
                 }
             }
         }
-}
-
-// using the interface module BuyerServiceInterfaceModule
-interface BuyerShipperInterface {
-    OneWay:
-        details( string)
-}
-interface BuyerSellerInterface {
-    OneWay:
-        quote( int)
-}
-// and the interface module SellerShipperServiceInterfaceModule
-interface SellerInterface {
-    OneWay:
-        ask( string ),
-        accept( string ),
-        reject( string )
-}
-interface ShipperInterface {
-    OneWay:
-        order( string )
 }

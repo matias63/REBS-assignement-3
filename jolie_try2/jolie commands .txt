@@ -1,6 +1,0 @@
-jolie commands 
-
-npm init jolie 
-
-
-curl http://localhost:8080/greet?name=Jolie
